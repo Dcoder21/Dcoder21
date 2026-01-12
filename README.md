@@ -24,10 +24,10 @@ I am a certified IT professional with a robust background in secure infrastructu
 
 As a cybersecurity and cloud security specialist, I maintain dedicated repositories for my technical work across different security domains:
 
-* ### [🔒 Cybersecurity Portfolio](https://github.com/AGK001/Cybersecurity-Portfolio)
+* ### [🔒 Cybersecurity Portfolio](https://nuelsportfolio.curious.page/)
     **Focus:** Technical execution in on-prem and hybrid environments. 
-    * **Core Skills:** Linux (CLI), SQL (Auditing), Python (Security Automation), and Incident Response (NIST Framework).
-    * **Featured Work:** Python automation scripts, SQL-based log analysis, and documented Incident Handler Journals.
+    * **Core Skills:** Malware Analysis, Threat Intelligence, Python (Security Automation), and Incident Response (NIST Framework), Security Operations.
+    * **Featured Work:** Python automation scripts, and documented Incident Handler Journals.
 
 * ### [☁️ Cloud Security Portfolio](https://github.com/AGK001/Cloud-Security-Portfolio)
     **Focus:** Securing cloud-native environments and Multicloud architecture.
