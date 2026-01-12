@@ -29,7 +29,7 @@ As a cybersecurity and cloud security specialist, I maintain dedicated repositor
     * **Core Skills:** Malware Analysis, Threat Intelligence, Python (Security Automation), and Incident Response (NIST Framework), Security Operations.
     * **Featured Work:** Python automation scripts, and documented Incident Handler Journals.
 
-* ### [☁️ Cloud Security Portfolio](https://github.com/AGK001/Cloud-Security-Portfolio)
+* ### [☁️ Cloud Security Portfolio](https://github.com/Dcoder21/Cloud-Security-Portfolio/tree/main)
     **Focus:** Securing cloud-native environments and Multicloud architecture.
     * **Core Skills:** Microsoft Entra ID (Azure AD), Identity & Access Management (IAM), AWS Security, and Zero Trust Architecture.
     * **Featured Work:** Entra ID Identity Governance, Adaptive Access Control (MFA/Conditional Access), and Cloud Hardening.
